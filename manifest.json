@@ -1,0 +1,13 @@
+{
+  "name": "Node2JSON",
+  "id": "1405606272973053076",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ]
+}
